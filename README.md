@@ -1,4 +1,4 @@
-# E.V. 🕸️ — Peter Parker's homemade AI, running on *your* PC
+.# E.V. 🕸️ — Peter Parker's homemade AI, running on *your* PC
 
 **by [Ouru77](https://github.com/Ouru77)** · MIT License · Türkçe & English
 
