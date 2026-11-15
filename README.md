@@ -129,10 +129,10 @@ The important bits:
 
 ```jsonc
 {
-  "language": "en",          // "en" (English) or "tr" (Türkçe)
-  "user_name": "YOUR NAME",  // E.V. addresses you by this — so it won't say someone else's name 🙂
-  "user_address": "YOUR NAME",
-  "city": "London",          // used for the weather line
+  "language": "en",          // "en" (English) or "ta" (Tamil)
+  "user_name": "rehaan",  // E.V. addresses you by this — so it won't say someone else's name 🙂
+  "user_address": "rehaan",
+  "city": "indua",          // used for the weather line
 
   "pc_control": true,        // allow open/close apps, media, power (with confirmation)
   "conversation_mode": true, // stay listening between turns, auto-mute when idle
